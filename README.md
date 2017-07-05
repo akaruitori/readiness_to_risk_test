@@ -4,4 +4,4 @@
 осторожны, либо, наоборот нет ли у вас склонности к ненужному риску.
 
 
-[Источник](ttp://www.psylist.net/praktikum/38.htm)
+[Источник](http://www.psylist.net/praktikum/38.htm)
