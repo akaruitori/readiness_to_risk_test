@@ -1,4 +1,4 @@
-require_relative 'test'
+require_relative 'lib/test'
 
 file_path = File.dirname(__FILE__) + '/data/'
 
